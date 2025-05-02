@@ -32,7 +32,7 @@ export const Chat = () => {
     {
       id: 3,
       message:
-        "Nesse último mês nos vivemos muita coisa, né? E tudo sem desgrudar um outro, do nosso jeitinho, desde o primeiro beijo",
+        "Nesse último mês nós vivemos muita coisa, né? E tudo sem desgrudar um do outro, do nosso jeitinho, desde o primeiro beijo",
       sent: false,
       loading: false,
       interval: 1000,
